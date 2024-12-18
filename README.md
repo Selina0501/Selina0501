@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🧙‍♂️ Really good at JavaScript <br>🔭 I'm currently learning Vue.js<br>🗂 Check my projects here: www.portfolio.com<br>🤝 I’m looking to collaborate on<br>💬 Ask me about games<br>🎯 My goals: senior developer / AI projects / gaming projects<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>🧙‍♂️ Really good at JavaScript <br>🔭 I'm currently learning Vue.js<br>🗂 Check my projects here: www.portfolio.com<br>🤝 I’m looking to collaborate on AI project <br>💬 Ask me about games<br>🎯 My goals: senior developer / gaming projects<br>🎲 Fun fact: ...</p>
 
 ###
 
