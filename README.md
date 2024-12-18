@@ -45,5 +45,5 @@
 
 ###
 
-<p align="left">📨 Drop me a line: tim.neumann@developer.com<br>📞 0157 555 784 105</p>
+<p align="left">📨 Drop me a line: tim.neumann@developer.com<br>📞Or just call me 0157 555 784 105</p>
 
