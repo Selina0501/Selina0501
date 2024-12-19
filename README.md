@@ -50,7 +50,7 @@
 ###
 
 <p align="left">📨 Drop me a line: tim.neumann@developer.com<br>
-<p align="left"> Or contact me via Linked in<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  /></p>
+<p align="left"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin logo"  />Or contact me via Linked in</p>
 
 ###
 
