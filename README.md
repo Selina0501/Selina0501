@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif"  />
-</div>
 
-###
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -161,6 +157,11 @@ jobs:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
+</div>
+
+###
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif"  />
 </div>
 
 ###
