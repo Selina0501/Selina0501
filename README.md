@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">📌My name is Tim and I'm a frontend developer from Munich.<br>I am motivated to continuously learn new technologies and develop myself. My ability to solve complex problems and my passion for programming make me a valuable member for your team.</p>
+<p align="left">📌My name is Tim and I'm a frontend developer from Munich.<br>As a developer, my enthusiasm for programming extends beyond mere professional obligations; it is a genuine passion that drives my daily activities. In addition to my work as a developer, I have a profound interest in gaming. Video games act as a source of inspiration for my coding endeavors. I believe that my programming skills can lead to innovations that push the boundaries of what is currently possible in game development.</p>
 
 <p align="left"> 🗂 Check my projects here: www.portfolio.com<br> 💼 Available to start a new project<br> </p>
 
