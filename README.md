@@ -9,6 +9,8 @@
 ###
 
 <p align="left">📌My name is Tim and I'm a frontend developer from Munich.<br>I am motivated to continuously learn new technologies and develop myself. My ability to solve complex problems and my passion for programming make me a valuable member for your team.</p>
+###
+<p align="left"> 🗂 Check my projects here: www.portfolio.com<br> 💼 Available to start a new project<br> </p>
 
 ###
 
@@ -42,10 +44,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-<p 🗂 Check my projects here: www.portfolio.com<br> 💼 Available to start a new project<br> </p>
-###
 
 <p align="left">🕷 Creating bugs since 2022<br>🧙‍♂️ Meister in web... / JS<br>🔭 I'm currently learning Vue.js<br>💬 Ask me about IT Security<br>🎯 My goals: senior full stack developer <br>📑 My professional path so far -CV<br>🎲 Fun fact: ...</p>
 
