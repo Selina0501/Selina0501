@@ -9,7 +9,7 @@
 ###
 
 <p align="left">📌My name is Tim and I'm a frontend developer from Munich.<br>I am motivated to continuously learn new technologies and develop myself. My ability to solve complex problems and my passion for programming make me a valuable member for your team.</p>
-###
+
 <p align="left"> 🗂 Check my projects here: www.portfolio.com<br> 💼 Available to start a new project<br> </p>
 
 ###
