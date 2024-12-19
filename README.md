@@ -50,14 +50,14 @@
 ###
 
 <p align="left">📨 Drop me a line: tim.neumann@developer.com<br>
-<p align="left"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" alt="linkedin logo"  /> Or contact me via Linked in</p>
 
 ###
 
 <div align="left">
-
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" alt="linkedin logo"  />
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="24" height="24" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="24" height="24" alt="whatsapp logo"  />
+   
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="24" height="24" alt="facebook logo"  />
 </div>
 
