@@ -44,8 +44,10 @@
 <h2 align="left">About me</h2>
 
 ###
+<p 🗂 Check my projects here: www.portfolio.com<br> 💼 Available to start a new project<br> </p>
+###
 
-<p align="left">🕷 Creating bugs since 2022<br>🧙‍♂️ Meister in web... / JS<br>🔭 I'm currently learning Vue.js<br>💬 Ask me about IT Security<br>🗂 Check my projects here: www.portfolio.com<br>🎯 My goals: senior full stack developer <br>💼 Available to start a new project<br>📑 My professional path so far -CV<br>🎲 Fun fact: ...</p>
+<p align="left">🕷 Creating bugs since 2022<br>🧙‍♂️ Meister in web... / JS<br>🔭 I'm currently learning Vue.js<br>💬 Ask me about IT Security<br>🎯 My goals: senior full stack developer <br>📑 My professional path so far -CV<br>🎲 Fun fact: ...</p>
 
 ###
 
