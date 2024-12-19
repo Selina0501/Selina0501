@@ -114,7 +114,7 @@ jobs:
 
 ###
 
-<p align="left">🕷 Creating bugs since 2022<br>🧙‍♂️ Meister in web... / JS<br>🔭 I'm currently learning Vue.js<br>💬 Ask me about IT Security<br>🗂 Check my projects here: www.portfolio.com<br>🎯 My goals: senior full stack developer <br>💼 Available to start a new project<br>📑 My professional path so far -CV<br>🎲 Fun fact: ...</p>
+<p align="left">🕷 Creating bugs since 2022<br>🧙‍♂️ Meister in ...<br>🔭 I'm currently learning ...<br>💬 Ask me about...<br>🎯 My goals: senior full stack developer <br>💼 Available to start a new project<br>🎲 Fun fact: ...</p>
 
 ###
 
